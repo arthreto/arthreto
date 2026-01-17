@@ -1,8 +1,11 @@
-## 👋 Hello, World! I'm Arthreto
+<div align="center">
+  
+# 👋 Hello, World! I'm **Arthreto**
 
 🎓 **Student passionate about Cybersecurity**  
 🔐 Interested in both offensive and defensive security, network protocols, and secure development  
 💡 Curious, detail-oriented, and motivated by understanding systems deeply
+</div>
 
 ---
 
