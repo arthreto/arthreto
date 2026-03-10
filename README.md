@@ -43,7 +43,7 @@ I started on **Minecraft** when I was young, which sparked my interest in **deve
 
 ### 💻 Projects
 
-- 🌐 [Workfolio](https://workfolio.fr) 🔗
+- 🌐 [RateeIt](https://rateeit.com) 🔗
 
 ---
 
